@@ -1,8 +1,6 @@
 # Low Tier Neck Enchantment Table
 
 This table lists the low tier neck enchantments available, sorted by Item ID, including their Spell IDs, Spell Names, Item IDs, and drop chance. All enchantments are applied to the low tier bag item with ID 998877.
-
-<span style="color: #1EFF00;">
   
 | Spell ID | Spell Name                          | Item ID | Drop Chance |
 |----------|-------------------------------------|---------|-------------|
@@ -33,7 +31,5 @@ This table lists the low tier neck enchantments available, sorted by Item ID, in
 | 26,020   | Neck Enchant +5 Herbalism           | 22586   | 3.7037%     |
 | 6,476    | Neck Enchant +10 Shadow Resistance  | 22588   | 3.7037%     |
 | 30,187   | Neck Enchant +5 Fishing             | 23727   | 3.7037%     |
-
-</span>
 
 **Note**: All enchantments are associated with the ```Nech Enchanment Bag (Low) item ID 998877``` and have a drop chance of 3.7037%.
