@@ -32,7 +32,7 @@ This table lists the low tier neck enchantments available, sorted by Item ID, in
 | 6,476    | Neck Enchant +10 Shadow Resistance  | 22588   | 3.7037%     |
 | 30,187   | Neck Enchant +5 Fishing             | 23727   | 3.7037%     |
 
-**Note**: All enchantments are associated with the ```Nech Enchanment Bag (Low) item ID 998877``` and have a drop chance of 3.7037%.
+**Note**: All enchantments are associated with the ```Neck Enchanment Bag (Low) item ID 998877``` and have a drop chance of 3.7037%.
 
 ------
 # Mid Tier Neck Enchantment Table
@@ -66,4 +66,4 @@ This table lists the mid tier neck enchantments available, sorted by Item ID, in
 | 35,821   | **Neck Enchant +15 Resilience**     | 29871   | 4.1666667%  |
 | 36,285   | **Neck Enchant +7 Resistances**     | 33315   | 4.1666667%  |
 
-**Note**: All enchantments are associated with the mid tier bag item ID 998878 and have a drop chance of 4.1666667%. The bold text on Spell Names indicates their uncommon (green) quality, as GitHub Markdown does not support colored text.
+**Note**: All enchantments are associated with the ```Neck Enchantment Bag (Mid) item ID 998878``` and have a drop chance of 4.1666667%.
