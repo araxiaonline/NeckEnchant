@@ -35,7 +35,7 @@ This table lists the low tier neck enchantments available, sorted by Item ID, in
 **Note**: All enchantments are associated with the ```Neck Enchanment Bag (Low) item ID 998877``` and have a drop chance of 3.7037%.
 
 ------
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0` # Mid Tier Neck Enchantment Table
+# Mid Tier Neck Enchantment Table
 
 This table lists the mid tier neck enchantments available, sorted by Item ID, including their Spell IDs, Spell Names, Item IDs, and drop chance. All enchantments are applied to the mid tier bag item with ID 998878.
 
