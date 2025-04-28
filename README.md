@@ -2,7 +2,7 @@
 
 Below is a video demonstrating the Mid Tier Neck Enchantment Bag (ID 998878) in action, showing the enchantment drop and potential token rewards.
 
-https://raw.githubusercontent.com/araxiaonline/NeckEnchant/main/Demo.mp4
+[https://raw.githubusercontent.com/araxiaonline/NeckEnchant/main/Demo.mp4](https://raw.githubusercontent.com/araxiaonline/NeckEnchant/main/Demo.mp4)
 
 
 # Low Tier Neck Enchantment Table
