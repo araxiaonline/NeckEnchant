@@ -1,4 +1,4 @@
-[Bag Demo Video](https://youtu.be/Ofsg99kuN-s)
+[![Demo Video](https://img.youtube.com/vi/Ofsg99kuN-s/0.jpg)](https://youtu.be/Ofsg99kuN-s)
 
 
 
