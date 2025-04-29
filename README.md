@@ -73,3 +73,30 @@ This table lists the mid tier neck enchantments available, sorted by Item ID, in
 | 36,285   | **Neck Enchant +7 Resistances**     | 33315   | 4.1666667%  |
 
 **Note**: All enchantments are associated with the ```Neck Enchantment Bag (Mid) item ID 998878``` and have a drop chance of 4.1666667%.
+
+-----
+## High Tier Neck Enchantment Table
+This table lists the high  tier neck enchantments available, sorted by Item ID, including their Spell IDs, Spell Names, Item IDs, and drop chance. All enchantments are applied to the mid tier bag item with ID 998879.
+
+
+| Spell ID | Spell Name                                | Item ID | Drop Chance |
+|----------|-------------------------------------------|---------|-------------|
+| 35,824   | **Neck Enchant +6 Stats**                 | 17887   | 5.8823529%  |
+| 35,797   | **Neck Enchant +30 Intellect**            | 17888   | 5.8823529%  |
+| 35,803   | **Neck Enchant +18 Stamina**              | 17893   | 5.8823529%  |
+| 35,805   | **Neck Enchant +15 Block Value**          | 17896   | 5.8823529%  |
+| 35,801   | **Neck Enchant +70 Attack Power**         | 17898   | 5.8823529%  |
+| 35,800   | **Neck Enchant +35 Agility**              | 17899   | 5.8823529%  |
+| 35,820   | **Neck Enchant +26 Attack Power**         | 18599   | 5.8823529%  |
+| 45,028   | **Neck Enchant +120 Armor**               | 18666   | 5.8823529%  |
+| 36,286   | **Neck Enchant +4 Health & Mana/5 sec**   | 18667   | 5.8823529%  |
+| 35,799   | **Neck Enchant +20 Strength**             | 22020   | 5.8823529%  |
+| 35,808   | **Neck Enchant +5 Snare Resist & +10 Hit Rating** | 22028 | 5.8823529%  |
+| 35,806   | **Neck Enchant +9 Stamina & +8% Speed**   | 29852   | 5.8823529%  |
+| 35,817   | **Neck Enchant +15 Spell Hit Rating**     | 29860   | 5.8823529%  |
+| 35,816   | **Neck Enchant +20 Spell Damage**         | 29863   | 5.8823529%  |
+| 39,403   | **Neck Enchant +12 Intellect**            | 29868   | 5.8823529%  |
+| 35,791   | **Neck Enchant +81 Healing**              | 29872   | 5.8823529%  |
+| 39,407   | **Neck Enchant +12 Defense**              | 29874   | 5.8823529%  |
+
+**Note**: All enchantments are associated with the ```Neck enchament Bag (High) item ID 998879``` and have a drop chance of 5.8823529%.
