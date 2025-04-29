@@ -1,6 +1,17 @@
 # Demo Video
 
 [![Demo Video](https://img.youtube.com/vi/Ofsg99kuN-s/0.jpg)](https://youtu.be/Ofsg99kuN-s)
+-----
+
+# Neck Enchantment Bags Overview
+
+This section provides a quick reference for the Neck Enchantment Bags available in this project, including their names and Item IDs.
+
+| Name                        | Item ID |
+|-----------------------------|---------|
+| Low Tier Neck Enchantment Bag  | 998877  |
+| Mid Tier Neck Enchantment Bag  | 998878  |
+| High Tier Neck Enchantment Bag | 998879  |
 
 
 -----
