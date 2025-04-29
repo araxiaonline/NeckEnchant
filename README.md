@@ -5,13 +5,13 @@
 
 # Neck Enchantment Bags Overview
 
-This section provides a quick reference for the Neck Enchantment Bags available in this project, including their names and Item IDs.
+This section provides a quick reference for the Neck Enchantment Bags available in this project, including their names and Item IDs. Each tier is color-coded for easy identification: Low Tier (green), Mid Tier (blue), and High Tier (purple).
 
-| Name                        | Item ID |
-|-----------------------------|---------|
-| Low Tier Neck Enchantment Bag  | 998877  |
-| Mid Tier Neck Enchantment Bag  | 998878  |
-| High Tier Neck Enchantment Bag | 998879  |
+| Tier | Name                        | Item ID |
+|------|-----------------------------|---------|
+| ![#00FF00](https://placehold.co/15x15/00FF00/00FF00.png) Low Tier | Low Tier Neck Enchantment Bag  | 998877  |
+| ![#0000FF](https://placehold.co/15x15/0000FF/0000FF.png) Mid Tier | Mid Tier Neck Enchantment Bag  | 998878  |
+| ![#800080](https://placehold.co/15x15/800080/800080.png) High Tier | High Tier Neck Enchant
 
 
 -----
